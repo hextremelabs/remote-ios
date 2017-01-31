@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2E5DFD0F1E40FF4B004C968A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2E5DFD0E1E40FF4B004C968A /* .gitignore */; };
 		2E69FEAE1E3F6C7C00C96C45 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2E69FEAD1E3F6C7C00C96C45 /* GoogleService-Info.plist */; };
 		2E69FEB01E3F6ECB00C96C45 /* ExtensionUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E69FEAF1E3F6ECB00C96C45 /* ExtensionUIViewController.swift */; };
 		2E69FEB21E3F76B000C96C45 /* ExtensionUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E69FEB11E3F76B000C96C45 /* ExtensionUIColor.swift */; };
@@ -26,6 +27,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		2E5DFD0E1E40FF4B004C968A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		2E69FEAC1E3F69C300C96C45 /* Remote.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Remote.entitlements; sourceTree = "<group>"; };
 		2E69FEAD1E3F6C7C00C96C45 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2E69FEAF1E3F6ECB00C96C45 /* ExtensionUIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionUIViewController.swift; sourceTree = "<group>"; };
@@ -139,6 +141,7 @@
 				2EBA09591E3F634700EA5441 /* Info.plist */,
 				2E69FEAD1E3F6C7C00C96C45 /* GoogleService-Info.plist */,
 				2E69FEC11E3FA3F900C96C45 /* Remote-Bridging-Header.h */,
+				2E5DFD0E1E40FF4B004C968A /* .gitignore */,
 			);
 			path = Remote;
 			sourceTree = "<group>";
@@ -247,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2E5DFD0F1E40FF4B004C968A /* .gitignore in Resources */,
 				2EBA09581E3F634700EA5441 /* LaunchScreen.storyboard in Resources */,
 				2E69FEAE1E3F6C7C00C96C45 /* GoogleService-Info.plist in Resources */,
 				2EBA09551E3F634700EA5441 /* Assets.xcassets in Resources */,
