@@ -40,8 +40,8 @@ class CommandViewCell: UICollectionViewCell {
     
     func reverse(boolean: Bool){
         self.labelCommandName.text = boolean == true ? command?.commandTitle:command?.commandTitleReverse;
-        self.labelCommandName.textColor = boolean == true ? UIColor.green:UIColor.red
-        self.viewCurrentStatus.backgroundColor = boolean == false ? UIColor.green:UIColor.red
+        self.labelCommandName.textColor = boolean == true ? UIColor(hexString: "#12B218"):UIColor(hexString: "#BE1414")
+        self.viewCurrentStatus.backgroundColor = boolean == false ? UIColor(hexString: "#12B218"):UIColor(hexString: "#BE1414")
     }
     
 }

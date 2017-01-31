@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		2E5DFD0F1E40FF4B004C968A /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2E5DFD0E1E40FF4B004C968A /* .gitignore */; };
+		2E5DFD111E410077004C968A /* README.md in Sources */ = {isa = PBXBuildFile; fileRef = 2E5DFD101E410077004C968A /* README.md */; };
 		2E69FEAE1E3F6C7C00C96C45 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 2E69FEAD1E3F6C7C00C96C45 /* GoogleService-Info.plist */; };
 		2E69FEB01E3F6ECB00C96C45 /* ExtensionUIViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E69FEAF1E3F6ECB00C96C45 /* ExtensionUIViewController.swift */; };
 		2E69FEB21E3F76B000C96C45 /* ExtensionUIColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E69FEB11E3F76B000C96C45 /* ExtensionUIColor.swift */; };
@@ -28,6 +29,7 @@
 
 /* Begin PBXFileReference section */
 		2E5DFD0E1E40FF4B004C968A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		2E5DFD101E410077004C968A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		2E69FEAC1E3F69C300C96C45 /* Remote.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Remote.entitlements; sourceTree = "<group>"; };
 		2E69FEAD1E3F6C7C00C96C45 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		2E69FEAF1E3F6ECB00C96C45 /* ExtensionUIViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExtensionUIViewController.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 		2EBA09411E3F634700EA5441 = {
 			isa = PBXGroup;
 			children = (
+				2E5DFD101E410077004C968A /* README.md */,
 				2EBA094C1E3F634700EA5441 /* Remote */,
 				2EBA094B1E3F634700EA5441 /* Products */,
 				1E7EC04B044A15984D9C92E1 /* Pods */,
@@ -319,6 +322,7 @@
 				2E69FEBE1E3F84A200C96C45 /* Command.swift in Sources */,
 				2E69FEB21E3F76B000C96C45 /* ExtensionUIColor.swift in Sources */,
 				2E69FEBA1E3F7B1E00C96C45 /* CommandViewCell.swift in Sources */,
+				2E5DFD111E410077004C968A /* README.md in Sources */,
 				2EBA094E1E3F634700EA5441 /* AppDelegate.swift in Sources */,
 				2E69FEB71E3F786500C96C45 /* LocalStorage.swift in Sources */,
 				2E69FEC01E3F90A400C96C45 /* DebugLogger.swift in Sources */,
