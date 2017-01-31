@@ -13,7 +13,9 @@ Powered by FirebaseRealTimeDatabase, Laziness and Love. Lots of love.
 
 P.S: You'll need to set up Firebase for your iOS project, download and setup the `GoogleService-Info.plist` file in the same project as your android app project. The Android and iOS apps must share the same project on firebase.
 
-Developed By
+Too lazy to add screenshots.
+
+Wanna talk?
 -------
 
 Akapo Damilola (helios66) - <fdamilola@gmail.com>
