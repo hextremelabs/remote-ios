@@ -1,5 +1,5 @@
 # Remote-iOS
-## Remote iOS client. To be used with the remote-android server.
+## Remote iOS client. To be used with the [Remote-Android](https://github.com/hextremelabs/remote-android) server.
 
 **READ THIS**
 
